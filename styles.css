@@ -8,10 +8,10 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
   grid-gap: 20px; 
   padding: 20px; 
-  min-height: 100vh;
+  /* min-height: 100vh;
   display: flex;
   justify-content: center; 
-  align-items: center;
+  align-items: center; */
 }
 
 .grid-item {
